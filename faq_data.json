@@ -1,0 +1,38 @@
+[
+  {
+    "question": "What is Python?",
+    "answer": "Python is a high-level programming language used for web development, AI, automation, and more."
+  },
+  {
+    "question": "What is machine learning?",
+    "answer": "Machine learning is a branch of AI that enables computers to learn from data."
+  },
+  {
+    "question": "What is NLP?",
+    "answer": "Natural Language Processing is a field of AI that helps computers understand human language."
+  },
+  {
+    "question": "How do I install Python?",
+    "answer": "Download Python from python.org and run the installer."
+  },
+  {
+    "question": "What is GitHub?",
+    "answer": "GitHub is a cloud platform used to host and manage code repositories."
+  },
+  {
+    "question": "What is AI?",
+    "answer": "AI (Artificial Intelligence) enables computers and machines to think, learn, and make decisions like humans."
+  },
+  {
+    "question": "Tell me about Python",
+    "answer": "Python is a high-level programming language used for web development, AI, automation, and more."
+  },
+  {
+    "question": "Explain Python",
+    "answer": "Python is a versatile and beginner-friendly programming language known for its simple syntax and wide range of applications."
+  },
+  {
+    "question": "What does AI mean",
+    "answer": "Artificial Intelligence is the simulation of human intelligence by machines."
+  }
+]
